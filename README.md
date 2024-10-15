@@ -1,8 +1,4 @@
 # annoying-cookie-consent-website
-Here’s a more engaging and humorous LinkedIn post for your project:
-
----
-
 🌟 **Introducing: The Annoying Cookie Consent Website!** 🍪
 
 Ever felt like cookie consent pop-ups are the modern-day equivalent of door-to-door salespeople? Well, I took that frustration and turned it into a fun project! 
@@ -24,6 +20,6 @@ This project not only showcases my coding skills but also highlights how we can 
 
 Curious? Check it out and let me know what you think!
 
----
+ 
 
-Feel free to customize it further to match your voice!
+ 
