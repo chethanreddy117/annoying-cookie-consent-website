@@ -3,7 +3,7 @@ Here’s a more engaging and humorous LinkedIn post for your project:
 
 ---
 
-🌟 **Introducing: The World's Most Annoying Cookie Consent Website!** 🍪
+🌟 **Introducing: The Annoying Cookie Consent Website!** 🍪
 
 Ever felt like cookie consent pop-ups are the modern-day equivalent of door-to-door salespeople? Well, I took that frustration and turned it into a fun project! 
 
